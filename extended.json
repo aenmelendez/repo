@@ -1,0 +1,38 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/aenmelendez/repo/blob/master/adanz_logo.png?raw=true",
+        "url_png_logo": "https://github.com/aenmelendez/repo/blob/master/adanz.png?raw=true",
+        "location": "Oceania | New Zealand",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "https://www.facebook.com/adanzpool/",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "ADANZ",
+            "addr": "",
+            "city": "",
+            "country": "New Zealand",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Oceania's leading Cardano Staking pool. Running on Industry-Grade fully redundant Servers. Highly experienced team with Finance Management, IT Security and Infrastructure. Rest assured your Investment will be going for its full potential with ADANZ",
+            "server": "",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "82556101ab923208e7bda4becc9f77b1caf97d4bfa0f755e08d1c089",
+        "1": ""
+      },
+         "telegram-admin-handle": {
+        "0": ""
+    }
+    }
+   
+}
+
